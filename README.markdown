@@ -1,4 +1,6 @@
+ssh://git@localhost:10022/wpp/game-of-life.git
 ii2
+
 3
 This is a simple demonstration application used in the [Jenkins: The Definitive Guide](http://wakaleo.com/books/jenkins-the-definitive-guide) book.
 
